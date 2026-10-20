@@ -1,0 +1,22 @@
+# M2E Ltd (M2E Control Systems)
+
+> Independent engineering company in Tamworth, Staffordshire, UK (company no. 09778670, incorporated 2015).
+> Control system design, electrical schematics (EPLAN, AutoCAD Electrical), in-house functional safety
+> (Sistema calculations to performance levels), control panels built and tested in-house, installation
+> documentation and supervision.
+
+## Services
+- [Control panel design and build](https://andrei170.github.io/m2e-ltd-demo/control-panels.html)
+- [Electrical design and schematics](https://andrei170.github.io/m2e-ltd-demo/schematics.html)
+- [Functional safety](https://andrei170.github.io/m2e-ltd-demo/functional-safety.html)
+- [Installation documentation and supervision](https://andrei170.github.io/m2e-ltd-demo/installation.html)
+
+## Sectors
+- Baggage and parcel conveyors; food, beverage and pharmaceutical; special purpose machinery; R&D; automotive
+
+## Contact
+- Phone: 07983 732189
+- Email: info@m2eltd.com
+- Address: 60 Glascote Lane, Wilnecote, Tamworth B77 2PH
+
+(Demonstration file prepared by AG1 Consulting. Not live.)
