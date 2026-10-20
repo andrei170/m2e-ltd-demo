@@ -82,7 +82,7 @@ section.dark .fc{background:rgba(255,255,255,.04);border-color:#24394d}
 .fc .n{font-family:"League Spartan",sans-serif;font-weight:700;font-size:38px;color:var(--acc);line-height:1}
 .fc h3{font-size:21px;margin:8px 0 6px}.fc p{color:var(--mut);font-size:15px}section.dark .fc p{color:#b9c8d6}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:46px;align-items:center}@media(max-width:900px){.split{grid-template-columns:1fr}}
-.split.top{align-items:start}
+.split.at{align-items:start}
 ul.ticks{list-style:none}ul.ticks li{padding:10px 0 10px 32px;position:relative;border-bottom:1px solid var(--line)}
 section.dark ul.ticks li{border-color:#24394d}
 ul.ticks li:before{content:"";position:absolute;left:2px;top:16px;width:16px;height:9px;border-left:3px solid var(--acc);border-bottom:3px solid var(--acc);transform:rotate(-45deg)}
